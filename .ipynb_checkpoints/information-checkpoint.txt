@@ -1,0 +1,3 @@
+The Income and Expense Account is a summary of all items of incomes and expenses which relate to the ongoing accounting year. It is prepared with the objective of finding out the surplus or deficit arising out of current incomes over current expenses. It is quite similar to the Trading and Profit and Loss Account of a trading concern and is prepared in an exact manner.
+
+from https://www.toppr.com/guides/accountancy/accounting-for-not-for-profit-organisations/income-and-expenditure-account/
