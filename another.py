@@ -7,12 +7,15 @@ def instruction():
     print('')
     print('Please fill out information in baht')
     print('')
+    print('Continue filling To calculate the next month')
+    print('')
+    print('Enter 0 in the Income or Expense box to stop.')
 
 def information():
     print('')
-    print('ถ้าต้องการดูข้อมููลเกี่ยวกับบัญชีรายรับ-รายจ่าย กด 1 ถ้าไม่ต้องการกด 0')
+    print('If you want to see information about income and expense accounts, press 1. If not, press 0.')
     print('')
-    press = int(input('เลืือกหมายเลข: '))
+    press = int(input('Choose number: '))
     if press == 1:
         f = open('information.txt')
         reader = f.read()
