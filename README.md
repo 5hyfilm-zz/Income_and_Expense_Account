@@ -11,3 +11,4 @@ pip(3) install matplotlib
 
 pip(3) install seaborn
 ```
+Then you run main.ipynb on jupyter
